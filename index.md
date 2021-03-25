@@ -14,6 +14,8 @@ layout: default
 
 ## [Lab4 Connect Amazon KVS WebRTC with AWS IoT]({{ "/lab/lab-4.html" | absolute_url }})
 
+## [Lab 5 - Cross Compile For Other Platforms]({{ "/lab/lab-5.html" | absolute_url }})
+
 ## Disclaimer
 The following workshop material including documentation and code, is provided as is. You may incur AWS service costs for using the different resources outlined in the labs. Material is provided AS IS and is to be used at your own discretion. The author will not be responsible for any issues you may run into by using this material. 
 
