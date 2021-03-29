@@ -16,6 +16,8 @@ layout: default
 
 ## [Lab 5 - Cross Compile For Other Platforms]({{ "/lab/lab-5.html" | absolute_url }})
 
+## [Amazon KVS WebRTC Q&A](https://iotlabtpe.github.io/Amazon-KVS-WebRTC-AFQ/)
+
 ## Disclaimer
 The following workshop material including documentation and code, is provided as is. You may incur AWS service costs for using the different resources outlined in the labs. Material is provided AS IS and is to be used at your own discretion. The author will not be responsible for any issues you may run into by using this material. 
 
