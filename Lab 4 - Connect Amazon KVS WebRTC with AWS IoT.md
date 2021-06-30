@@ -152,10 +152,6 @@ To adopt AWS IoT Credential to connect Amazon KVS WebRTC service, you should mod
                 channelName, // iot thing name, recommended to be same as your channel name
                 &pSampleConfiguration->pCredentialProvider));
     ```
-    To get cert.pem
-    ```
-        wget https://www.amazontrust.com/repository/SFSRootCAG2.pem -O cert.pem
-    ```
 
 5. Search the function “freeStaticCredentialProvider” and comment the whole line out. Add a line as below.
     ```bash
